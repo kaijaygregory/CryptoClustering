@@ -19,17 +19,13 @@ __Clustering with PCA Data:__I clustered the cryptocurrencies using K-means with
 Screenshots
 Here are the screenshots of the elbow plots and scatter plots created during the project:
 
-![Elbow Plot for Original Scaled Data]
-(</Users/kaijagregory/Desktop/Screenshot 2023-10-31 at 10.55.32 PM.png>)
+![Elbow Plot for Original Scaled Data](</Users/kaijagregory/Desktop/Screenshot 2023-10-31 at 10.55.32 PM.png>)
 
-![Scatter Plot for Clustering with Original Scaled Data]
-(</Users/kaijagregory/Desktop/Screenshot 2023-10-31 at 10.55.45 PM.png>)
+![Scatter Plot for Clustering with Original Scaled Data](</Users/kaijagregory/Desktop/Screenshot 2023-10-31 at 10.55.45 PM.png>)
 
-![Elbow Plot for PCA Data]
-(</Users/kaijagregory/Desktop/Screenshot 2023-10-31 at 10.55.55 PM.png>)
+![Elbow Plot for PCA Data](</Users/kaijagregory/Desktop/Screenshot 2023-10-31 at 10.55.55 PM.png>)
 
-![Scatter Plot for Clustering with PCA Data]
-(</Users/kaijagregory/Desktop/Screenshot 2023-10-31 at 10.56.06 PM.png>)
+![Scatter Plot for Clustering with PCA Data](</Users/kaijagregory/Desktop/Screenshot 2023-10-31 at 10.56.06 PM.png>)
 
 __Conclusion__
 
