@@ -8,13 +8,13 @@ __Data Preparation:__ I loaded the cryptocurrency market data from the provided 
 
 __Finding the optimal K:__ I applied the elbow method to determine the best value for k (the number of clusters) for K-means clustering. This step involved creating a list of possible k values, computing the inertia values for each k, and plotting an elbow curve to identify the optimal value for k.
 
-__Clustering Cryptocurrencies:__  I clustered the cryptocurrencies using K-means with the best k value found in the PCA data and created a scatter plot to visualize the clusters, with the x-axis representing "price_change_percentage_24h" and the y-axis representing "price_change_percentage_7d."
+__Clustering Cryptocurrencies:__  I clustered the cryptocurrencies using K-means with the best k value found in the previous step and created a scatter plot to visualize the clusters, with the x-axis representing "price_change_percentage_24h" and the y-axis representing "price_change_percentage_7d".
 
 __Principal Component Analysis (PCA):__ I performed PCA on the original scaled data to reduce the features to three principal components. I then determined the total explained variance of the three principal components.
 
 __Finding the Optimal K for PCA Data:__ Similar to the previous step, I applied the elbow method to find the best value for k when using the PCA data.
 
-__Clustering with PCA Data:__I clustered the cryptocurrencies using K-means with the best k value found in the previous step. I created a scatter plot to visualize the clusters, with the x-axis representing "PC1" and the y-axis representing "PC2."
+__Clustering with PCA Data:__I clustered the cryptocurrencies using K-means with the best k value found in the PCA data and created a scatter plot to visualize the clusters, with the x-axis representing "PC1" and the y-axis representing "PC2".
 
 Screenshots
 Here are the screenshots of the elbow plots and scatter plots created during the project:
