@@ -1,8 +1,8 @@
-# CryptoClustering
+# crypto-clustering
 
 __Project Summary__
 
-In the CryptoClustering project, I used Python and unsupervised learning techniques to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. The key steps of the project include:
+In the crypto-clustering project, I used Python and unsupervised learning techniques to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. The key steps of the project include:
 
 __Data Preparation:__ I loaded the cryptocurrency market data from the provided crypto_market_data.csv file into a DataFrame. I then standardized the data using the StandardScaler module from scikit-learn.
 
